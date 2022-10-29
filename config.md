@@ -4,7 +4,7 @@
 
 `git config --global user.name` `"`*User Name*`"`
 
-![](image\user-name.png)
+![](./image/user-name.png)
 
 ---
 
@@ -12,7 +12,7 @@
 
 `git config --global user.email` *email*
 
-![](image\user-email.png)
+![](./image/user-email.png)
 
 Обратите внимание, что адрес должен совпадать с тем, на который зарегистрирован аккаунт в Гитхабе.
 
@@ -22,7 +22,7 @@
 
 `git config --global core.editor` *editor*
 
-![](image\editor.png)
+![](./image/editor.png)
 
 ---
 
@@ -30,4 +30,4 @@
 
 `git config --list`
 
-![](image\list.png)
+![](./image/list.png)

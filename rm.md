@@ -5,5 +5,5 @@
 
 Для этого существует команда `git rm` *filename* *filename*, которая удаляет файлы по их имени.
 
-![](image\RM.png)
+![](./image/RM.png)
 
